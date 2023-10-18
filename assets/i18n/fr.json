@@ -1,0 +1,162 @@
+{
+  "header": {
+    "home": "PLATEFORME DE GESTION DE L'AIDE",
+    "signin": "Authentification",
+    "language": "Français",
+    "language.symbole": "Fr",
+    "language.fr": "Français",
+    "language.us": "Anglais",
+    "page.home": "PAGE D'ACCEUIL",
+    "page.reports": "RAPPORTS",
+    "page.projects": "PROJECTS",
+    "page.propos": "A PROPOS DE PGA",
+    "page.blogs": "ACTUALITÉS & ÉVÈNEMENTS"
+  },
+
+  "home": {
+    "welcome": "Bienvenue à la PGA",
+    "description.1": "Bienvenue sur le portail public de la Plateforme pour la gestion de l'aide extérieure du gouvernement de guinée.",
+    "description.2": "La plateforme est gérée par la Direction de l'Assistance étrangère du, Ministère des Finances de la République de Guinée.",
+    "statistique.title.1": "Engagements totaux",
+    "statistique.title.2": "Total des décaissements",
+    "statistique.title.3": "Nombre total de projets",
+    "titleProjet1": "LES MEILLEURS PROJETS DE L'ANNÉE DERNIÈRE",
+    "titleProjet2": "TOP DES ORGANISMES DE FINANCEMENT PAR ENGAGEMENTS"
+  },
+  "reports": {
+    "title": "RAPPORTS"
+  },
+  "projets": {
+    "title": "PROJETS"
+  },
+  "contact": {
+    "title": "Coordonnées",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "button.label": "Adhérer maintenant"
+  },
+
+  "blogs": {
+    "emptyFilterMessage": "Aucun résultat trouvé - Filtre",
+    "search": "Rechercher un mot-clé",
+    "searchName": "Rechercher par le nom",
+    "filterTitle": "Rechercher par",
+    "filterTitleOld": "PAR ANCIENNE ACTUALITÉS & ÉVÈNEMENTS",
+    "filterTitleNew": "PAR NOUVEAU ACTUALITÉS & ÉVÈNEMENTS",
+    "back": "Retour"
+  },
+
+  "about": {
+    "title": "À propos de nous",
+    "title.description": "Nous sommes une équipe de consultants en informatique venant de plusieurs domaines d’études (informatique, finance, et administration). Notre engagement à l’égard d’une gamme de produits nous a permis de devenir de véritables experts dans la mise en œuvre des services et solutions",
+    "title.card.01": "Qui sommes-nous",
+    "title.card.02": "Notre mission",
+    "title.card.03": "Notre vision",
+    "description.card.01": "Groupe Wolikhai, Partenaire de Microsoft, Fournisseur Agrée de Service Numérique et Service à Valeur Ajoutée (SVA), est une Entreprise de droit guinéen, œuvrant dans les domaines des technologies de l'information (TI), de la réingénierie de processus et de la gestion dans divers secteurs comme les organismes gouvernementaux, les institutions financières privées et publiques, ainsi que les grandes sociétés industrielles. Un acteur majeur dans la formation et fourniture des équipements Informatiques, technologiques et des Licences professionnelles.\nElle est affiliée à la Société mère au CANADA appelée CLARTIC INC. Avec plus de 15 années d’expériences.",
+    "description.card.02": "Propulser l’entreprise dans l’ère du digital à l’aide des solutions technologiques, innovantes et rentables. Nous accompagnons les institutions et les entreprises dans la définition et la mise en œuvre de leur stratégie de gestion et suivi leur permettant d’avoir une nette visibilité sur l’évolution de leurs activités, d’avoir accès aux informations clés en temps réel leur permettant de prendre des décisions efficaces et adaptées.",
+    "description.card.03": " Être le partenaire de confiance de nos clients pour une collaboration professionnelle plus forte et durable.Nous sommes un groupe d’experts en affaires, finances, et en technologie qui aident les dirigeants à transformer leurs organisations.",
+    "title.service": "Nos services",
+    "service01": "Archivage et Gestion documentaire",
+    "service02": "Gestion de la relation client",
+    "service03": "Informatique décisionnelle",
+    "service04": "Messagerie & collaboration",
+    "service05": "Développement des applications",
+    "service06": "Consultation informatique"
+  },
+
+
+  "footer": {
+    "companyTitle": "Entreprise",
+    "companyTitle1": "À propos de nous",
+    "companyTitle2": "Nouvelles",
+    "companyTitle3": "Relations avec les investisseurs",
+    "companyTitle4": "Carrières",
+    "companyTitle5": "Dossier de presse",
+
+    "ressourcesTitle": "Ressources",
+    "ressourcesTitle1": "Commencer",
+    "ressourcesTitle2": "Apprendre",
+    "ressourcesTitle3": "Études de cas",
+
+    "communityTitle": "Communauté",
+    "communityTitle1": "Discorde",
+    "communityTitle2": "Événements",
+    "communityTitle3": "FAQ",
+    "communityTitle4": "Blog",
+
+    "legalTitle": "Légal",
+    "legalTitle1": "Politique de marque",
+    "legalTitle2": "politique de confidentialité",
+    "legalTitle3": "Conditions d'utilisation",
+
+    "copyright": "Développez par",
+    "copyright.wolikhai": "Tous droits réservés.",
+    "terms.wolikhai": "Termes et conditions",
+    "privacy.wolikhai": "Politique de confidentialité"
+  },
+
+  "other": {
+    "signinPortail": "Différents Portails de connexion",
+    "see.more": "Voir plus",
+    "title.description": "Nous sommes une équipe de consultants en informatique venant de plusieurs domaines d’études (informatique, finance, et administration). Notre engagement à l’égard d’une gamme de produits nous a permis de devenir de véritables experts dans la mise en œuvre des services et solutions",
+    "copyright": "Développez par",
+    "copyright.wolikhai": "Tous droits réservés.",
+    "terms.wolikhai": "Termes et conditions",
+    "privacy.wolikhai": "Politique de confidentialité",
+    "inline.post": "Mis en ligne le"
+  },
+
+  "primeng": {
+    "startsWith": "Commence avec",
+    "contains": "Contient",
+    "notContains": "Ne contient pas",
+    "endsWith": "Se termine par",
+    "equals": "Équivaut à",
+    "notEquals": "Pas égal",
+    "noFilter": "Pas de filtre",
+    "lt": "Moins que",
+    "lte": "Inférieur ou égal à",
+    "gt": "Plus grand que",
+    "gte": "Plus grand ou égal à",
+    "is": "Est",
+    "isNot": "N'est pas",
+    "before": "Avant",
+    "after": "Après",
+    "dateIs": "La date est",
+    "dateIsNot": "La date n'est pas",
+    "dateBefore": "La date est avant",
+    "dateAfter": "La date est après",
+    "clear": "Réinitialiser",
+    "apply": "Appliquer",
+    "matchAll": "Faire correspondre tout",
+    "matchAny": "Correspond à n'importe quel",
+    "addRule": "Ajouter une règle",
+    "removeRule": "Supprimer la règle",
+    "accept": "Oui",
+    "reject": "Non",
+    "choose": "Choisir",
+    "upload": "Télécharger",
+    "cancel": "Annuler",
+    "dayNames": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+    "dayNamesShort": ["Dim", "Lun", "Mar", "Mer", "Jeu", "Ven", "Sam"],
+    "dayNamesMin": ["Su","Mo","Tu","Nous","Th","Fr","Sa"],
+    "monthNames": ["Janvier","Février","Mars","Avril","Mai","Juin","Juillet","Août","Septembre","Octobre","Novembre","Décembre"],
+    "monthNamesShort": 	["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Août", "Sep", "Oct", "Nov", "Dec"],
+    "dateFormat": "mm/jj/aa",
+    "firstDayOfWeek": 0,
+    "today": "Aujourd'hui",
+    "weekHeader": "Semaine",
+    "weak": "Faible",
+    "medium": "Moyen",
+    "strong": "Fort",
+    "passwordPrompt": "Entrer un mot de passe",
+    "emptyMessage": "Aucun résultat trouvé",
+    "emptyFilterMessage": "Aucun résultat trouvé - Filtre",
+    "search": "Rechercher un mot-clé",
+    "displayTableFetch1": "Affichage du",
+    "displayTableFetch2": "au",
+    "displayTableFetch3": "des",
+    "displayTableFetch4": "entrées"
+  }
+
+}

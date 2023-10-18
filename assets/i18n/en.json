@@ -1,0 +1,163 @@
+{
+  "header": {
+    "home": "AID MANAGEMENT PLATFORM",
+    "signin": "Authentication",
+    "language": "English",
+    "language.symbole": "En",
+    "language.fr": "French",
+    "language.us": "English",
+    "page.home": "HOMEPAGE",
+    "page.reports": "REPORTS",
+    "page.projects": "PROJECTS",
+    "page.propos": "ABOUT US",
+    "page.blogs": "NEWS AND EVENTS"
+  },
+
+  "home": {
+    "welcome": "Welcome to the PGA",
+    "description.1": "Welcome to the public portal of the Platform for the management of foreign aid from the government of guinea.nue at the PGA",
+    "description.2": "The platform is managed by the Directorate of Foreign Assistance of the Ministry of Finance of the Republic of Guinea.",
+    "statistique.title.1": "Total Commitments",
+    "statistique.title.2": "Total Disbursements",
+    "statistique.title.3": "Total Activities",
+    "titleProjet1": "THE BEST PROJECTS OF LAST YEAR",
+    "titleProjet2": "TOP COMMITMENT FINANCING ORGANIZATIONS"
+  },
+  "reports": {
+    "title": "REPORTS"
+  },
+  "projets": {
+    "title": "ACTIVITES"
+  },
+  "contact": {
+    "title": "Contact information",
+    "phone": "Phone",
+    "email": "E-mail",
+    "button.label": "Join now"
+  },
+  "blogs": {
+    "emptyFilterMessage": "No results found",
+    "search": "Search keyword",
+    "searchName": "Search by Name",
+    "filterTitle": "Search by",
+    "filterTitleOld": "By NEWS AND EVENTS",
+    "filterTitleNew": "BY NEWS AND EVENTS",
+    "back": "Back"
+  },
+
+  "about": {
+    "title": "About Us",
+    "title.description": "We are a team of IT consultants from several fields of study (IT, finance, and administration). Our commitment to a range of products has allowed us to become true experts in the implementation of services and solutions",
+    "title.card.01": "Who are we",
+    "title.card.02": "Our mission",
+    "title.card.03": "Our vision",
+    "description.card.01": "Groupe Wolikhai, Partner of Microsoft, Approved Supplier of Digital Services and Value Added Services (SVA), is a Guinean company, working in the fields of information technology (IT), process reengineering and management in various sectors such as government agencies, private and public financial institutions, as well as large industrial corporations. A major player in the training and supply of IT and technological equipment and professional licenses. It is affiliated with the parent company in CANADA called CLARTIC INC. With over 15 years of experience.",
+    "description.card.02": "Propel the company into the digital age using technological, innovative and profitable solutions. We support institutions and companies in the definition and implementation of their management and monitoring strategy allowing them to have clear visibility on the evolution of their activities, to have access to key information in real time allowing them to make effective and appropriate decisions.",
+    "description.card.03": "To be the trusted partner of our clients for a stronger and lasting professional collaboration.We are a group of business, finance, and technology experts who help leaders transform their organizations.",
+    "title.service": "Our services",
+    "service01": "Archiving and document management",
+    "service02": "Customer relationship management",
+    "service03": "Business intelligence",
+    "service04": "Messaging & Collaboration",
+    "service05": "Application development",
+    "service06": "Computer consultation"
+  },
+
+
+  "footer": {
+    "companyTitle": "Company",
+    "companyTitle1": "About Us",
+    "companyTitle2": "News",
+    "companyTitle3": "Investor Relations",
+    "companyTitle4": "Careers",
+    "companyTitle5": "Media Kit",
+
+    "ressourcesTitle": "Resources",
+    "ressourcesTitle1": "Get Started",
+    "ressourcesTitle2": "Learn",
+    "ressourcesTitle3": "Case Studies",
+
+    "communityTitle": "Community",
+    "communityTitle1": "Discord",
+    "communityTitle2": "Events",
+    "communityTitle3": "FAQ",
+    "communityTitle4": "Blog",
+
+    "legalTitle": "Legal",
+    "legalTitle1": "Brand Policy",
+    "legalTitle2": "Privacy Policy",
+    "legalTitle3": "Terms of Service",
+
+    "title": "About Us",
+    "title.description": "We are a team of IT consultants from several fields of study (IT, finance, and administration). Our commitment to a range of products has allowed us to become true experts in the implementation of services and solutions",
+    "copyright": "Develop by",
+    "copyright.wolikhai": "All rights reserved.",
+    "terms.wolikhai": "Terms & Condition",
+    "privacy.wolikhai": "Privacy Policy"
+  },
+
+  "other": {
+    "signinPortail": "Different Connection Portals",
+    "see.more": "See more",
+    "title.description": "Nous sommes une équipe de consultants en informatique venant de plusieurs domaines d’études (informatique, finance, et administration). Notre engagement à l’égard d’une gamme de produits nous a permis de devenir de véritables experts dans la mise en œuvre des services et solutions",
+    "copyright": "Développez par",
+    "copyright.wolikhai": "Tous droits réservés.",
+    "terms.wolikhai": "Termes et conditions",
+    "privacy.wolikhai": "Politique de confidentialité",
+    "inline.post": "Posted on"
+  },
+
+  "primeng": {
+    "startsWith": "Starts with",
+    "contains": "Contains",
+    "notContains": "Not contains",
+    "endsWith": "Ends with",
+    "equals": "Equals",
+    "notEquals": "Not equals",
+    "noFilter": "No Filter",
+    "lt": "Less than",
+    "lte": "Less than or equal to",
+    "gt": "Greater than",
+    "gte": "Greater than or equal to",
+    "is": "Is",
+    "isNot": "Is not",
+    "before": "Before",
+    "after": "After",
+    "dateIs": "Date is",
+    "dateIsNot": "Date is not",
+    "dateBefore": "Date is before",
+    "dateAfter": "Date is after",
+    "clear": "Clear",
+    "apply": "Apply",
+    "matchAll": "Match All",
+    "matchAny": "Match Any",
+    "addRule": "Add Rule",
+    "removeRule": "Remove Rule",
+    "accept": "Yes",
+    "reject": "No",
+    "choose": "Choose",
+    "upload": "Upload",
+    "cancel": "Cancel",
+    "dayNames": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "dayNamesShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+    "dayNamesMin": ["Su","Mo","Tu","We","Th","Fr","Sa"],
+    "monthNames": ["January","February","March","April","May","June","July","August","September","October","November","December"],
+    "monthNamesShort": ["Jan", "Feb", "Mar", "Apr", "May", "Jun","Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "dateFormat": "mm/dd/yy",
+    "firstDayOfWeek": 0,
+    "today": "Today",
+    "weekHeader": "Wk",
+    "weak": "Weak",
+    "medium": "Medium",
+    "strong": "Strong",
+    "passwordPrompt": "Enter a password",
+    "emptyMessage": "No results found",
+    "emptyFilterMessage": "No results found",
+    "search": "Search keyword",
+    "displayTableFetch1": "Showing",
+    "displayTableFetch2": "to",
+    "displayTableFetch3": "of",
+    "displayTableFetch4": "entries"
+  }
+
+}
